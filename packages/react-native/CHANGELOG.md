@@ -1,5 +1,11 @@
 # @assistant-ui/react-native
 
+## 0.1.50
+
+### Patch Changes
+
+- [#9866](https://github.com/assistant-ui/assistant-ui/pull/9866) [`736c07f`](https://github.com/assistant-ui/assistant-ui/commit/736c07f59623ae571f1e969bb1c8b6f91f661fd0) - feat(react-native): add `asChild` to the remaining pressable primitives (action bar, branch picker, attachment remove, queue item, suggestion, thread list, thread list item, and chain of thought triggers) ([@okisdev](https://github.com/okisdev))
+
 ## 0.1.49
 
 ### Patch Changes
