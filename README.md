@@ -1,4 +1,4 @@
-<a href="https://www.assistant-ui.com">
+<a href="https://www.assistant-ui.com"><!-- probe -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset=".github/assets/header-dark.png" />
     <source media="(prefers-color-scheme: light)" srcset=".github/assets/header-light.png" />
